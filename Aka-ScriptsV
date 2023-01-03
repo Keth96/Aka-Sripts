@@ -2757,7 +2757,7 @@ reference = (function()
 		lastPress = pressTime
 		wait(2)
 		if lastPress ~= pressTime then return end
-		inviteButton.Text = "Copy Discord Invite Link (https://discord.io/infiniteyield)"
+		inviteButton.Text = "Copy Discord Invite Link (https://discord.gg/NhntzA89Hc)"
 	end)
 	dragGUI(main)
 	main.Parent = PARENT
